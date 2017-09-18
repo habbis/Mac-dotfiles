@@ -7,6 +7,8 @@
 (setq package-enable-at-startup nil)
 (package-initialize)
 
+(use-package evil-tabs)
+(global-evil-tabs-mode t)
 (use-package evil
   :ensure t
   :config

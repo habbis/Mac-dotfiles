@@ -93,7 +93,6 @@ alias la='ls -A'
 alias l='ls -CF'
 alias ls='ls -al'
 alias dirs='dirs -v'
-#alias python='python3'
 # This chagnes the look of the bash command line.
 export PS1="___________________    | \w @ \h (\u) \n| => "
 export PS2="| => "
